@@ -3,9 +3,7 @@
   "version": "5.1.0",
   "description": "RedTeam MagicSender Ultimate v5.1 - Railway Fixed",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "scripts": {},
   "engines": {
     "node": "20.x"
   },
